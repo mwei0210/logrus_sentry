@@ -7,7 +7,7 @@ import (
 	"runtime"
 	"time"
 
-	"github.com/Sirupsen/logrus"
+	"github.com/sirupsen/logrus"
 	"github.com/getsentry/raven-go"
 	"github.com/pkg/errors"
 )
